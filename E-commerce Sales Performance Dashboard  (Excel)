@@ -1,0 +1,25 @@
+### Project Type: Business Intelligence | Excel Dashboard 
+### Tools Used: Microsoft Excel, Pivot Tables, Charts, Slicers, GETPIVOTDATA 
+### Objective: 
+To analyze and visualize key sales metrics for an e-commerce company, helping stakeholders 
+track performance, identify top-performing regions and products, and make data-driven 
+decisions. 
+### Key Features: 
+• Interactive KPI Cards displaying:  
+o Total Sales    
+o Total Profit     
+o Profit Margin       
+o Total Orders       
+• Dynamic Charts: 
+o Monthly Sales Trend (Line Chart) 
+o Sales by Region (Clustered Column) 
+o Top 5 Products by Revenue (Horizontal Bar) 
+o Profit by Customer Segment (Pie Chart) 
+• Slicers to filter dashboard by: 
+o Region 
+o Customer Segment 
+o Product Category 
+• Fully Automated using Pivot Tables and GETPIVOTDATA for real-time updates 
+Business Impact: 
+This dashboard simulates how a company could monitor its performance in real-time, spot 
+high-revenue zones, understand customer behavior, and improve profitability.
