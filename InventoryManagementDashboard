@@ -1,1 +1,24 @@
+# Inventory Management Dashboard 📊
+
+This Excel project tracks daily, weekly, and monthly inventory data including:
+- Daily stock movement
+- Monthly inventory summary
+- Top outbound products
+- Vendor performance
+- Category-wise movement
+
+## Key Skills Used
+- Excel Pivot Tables
+- Charts (Line, Bar, Column, Pie)
+- Date functions (TEXT, WEEKNUM, MONTH)
+- Dashboard Design
+
+## Sample Charts
+- Line chart for daily trends
+- Bar chart for vendor analysis
+- Pie chart for category movement
+
+## Objective
+This project demonstrates how an MIS Executive can analyze inventory data and create an interactive dashboard for real-time decisions.
+
 
